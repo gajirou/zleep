@@ -12,3 +12,5 @@ zig run zleep.zig -- 5
 # ビルド
 zig build-exe -Drelease-small zleep.zig
 ```
+## 実行イメージ
+![](https://storage.googleapis.com/zenn-user-upload/0676ecf09407-20221011.gif)
